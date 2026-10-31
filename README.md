@@ -1,6 +1,6 @@
 # Hi there, I'm Mahendra LB! 👋
 
-An aspiring Software Engineer passionate about building robust applications, exploring web technologies, and solving complex problems. I enjoy bridging the gap between back-end logic and front-end presentation.
+An aspiring Web development passionate about building robust applications, exploring web technologies, and solving complex problems. I enjoy bridging the gap between back-end logic and front-end presentation.
 
 ---
 
